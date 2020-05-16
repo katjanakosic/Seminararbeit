@@ -1,0 +1,2 @@
+# Seminararbeit
+Data for Seminararbeit
